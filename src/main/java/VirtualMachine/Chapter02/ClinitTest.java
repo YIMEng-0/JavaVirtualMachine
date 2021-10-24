@@ -13,6 +13,7 @@ public class ClinitTest {
         int b = 2;
     }
 
+    // 显式的创建了类的构造器
     public ClinitTest() {
         a = 10;
         int d = 20;
